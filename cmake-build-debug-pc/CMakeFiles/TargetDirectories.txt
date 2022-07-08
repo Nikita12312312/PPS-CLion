@@ -1,0 +1,9 @@
+/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-debug-pc/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-debug-pc/CMakeFiles/edit_cache.dir
+/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-debug-pc/CMakeFiles/my_first_project.dir
+/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-debug-pc/System/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-debug-pc/System/CMakeFiles/edit_cache.dir
+/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-debug-pc/System/CMakeFiles/System.dir
+/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-debug-pc/System/Interfaces/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-debug-pc/System/Interfaces/CMakeFiles/edit_cache.dir
+/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-debug-pc/System/Interfaces/CMakeFiles/Interfaces.dir

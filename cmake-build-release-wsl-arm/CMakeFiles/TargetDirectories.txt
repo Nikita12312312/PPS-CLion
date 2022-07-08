@@ -1,0 +1,9 @@
+/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm/CMakeFiles/edit_cache.dir
+/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm/CMakeFiles/my_first_project.dir
+/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm/System/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm/System/CMakeFiles/edit_cache.dir
+/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm/System/CMakeFiles/System.dir
+/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm/System/Interfaces/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm/System/Interfaces/CMakeFiles/edit_cache.dir
+/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm/System/Interfaces/CMakeFiles/Interfaces.dir

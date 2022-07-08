@@ -1,0 +1,2 @@
+/usr/bin/ar qc libSystem.a  CMakeFiles/System.dir/Dma.cpp.o CMakeFiles/System.dir/StcPacket.cpp.o CMakeFiles/System.dir/Devices/Adis16445/Adis16445.cpp.o CMakeFiles/System.dir/Devices/Lmx2572/Lmx2572.cpp.o
+/usr/bin/ranlib libSystem.a

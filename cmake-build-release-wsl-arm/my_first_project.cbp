@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="my_first_project"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\System\;CMake Files\System\Interfaces\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="my_first_project">
+				<Option output="/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm/my_first_project" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/c/Users/nf010/CLionProjects/my_first_project"/>
+					<Add directory="/usr/local/Include"/>
+					<Add directory="/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm"/>
+					<Add directory="/mnt/c/Users/nf010/CLionProjects/my_first_project/System/Interfaces"/>
+					<Add directory="/mnt/c/Users/nf010/CLionProjects/my_first_project/System"/>
+					<Add directory="/home/nik/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/../lib/gcc/aarch64-linux-gnu/8.3.0/../../../../aarch64-linux-gnu/include/c++/8.3.0"/>
+					<Add directory="/home/nik/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/../lib/gcc/aarch64-linux-gnu/8.3.0/../../../../aarch64-linux-gnu/include/c++/8.3.0/aarch64-linux-gnu"/>
+					<Add directory="/home/nik/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/../lib/gcc/aarch64-linux-gnu/8.3.0/../../../../aarch64-linux-gnu/include/c++/8.3.0/backward"/>
+					<Add directory="/home/nik/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/../lib/gcc/aarch64-linux-gnu/8.3.0/include"/>
+					<Add directory="/home/nik/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/../lib/gcc/aarch64-linux-gnu/8.3.0/include-fixed"/>
+					<Add directory="/home/nik/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/../lib/gcc/aarch64-linux-gnu/8.3.0/../../../../aarch64-linux-gnu/include"/>
+					<Add directory="/home/nik/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/../aarch64-linux-gnu/libc/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm/Makefile&quot;  VERBOSE=1 my_first_project"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="my_first_project/fast">
+				<Option output="/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm/my_first_project" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/c/Users/nf010/CLionProjects/my_first_project"/>
+					<Add directory="/usr/local/Include"/>
+					<Add directory="/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm"/>
+					<Add directory="/mnt/c/Users/nf010/CLionProjects/my_first_project/System/Interfaces"/>
+					<Add directory="/mnt/c/Users/nf010/CLionProjects/my_first_project/System"/>
+					<Add directory="/home/nik/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/../lib/gcc/aarch64-linux-gnu/8.3.0/../../../../aarch64-linux-gnu/include/c++/8.3.0"/>
+					<Add directory="/home/nik/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/../lib/gcc/aarch64-linux-gnu/8.3.0/../../../../aarch64-linux-gnu/include/c++/8.3.0/aarch64-linux-gnu"/>
+					<Add directory="/home/nik/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/../lib/gcc/aarch64-linux-gnu/8.3.0/../../../../aarch64-linux-gnu/include/c++/8.3.0/backward"/>
+					<Add directory="/home/nik/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/../lib/gcc/aarch64-linux-gnu/8.3.0/include"/>
+					<Add directory="/home/nik/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/../lib/gcc/aarch64-linux-gnu/8.3.0/include-fixed"/>
+					<Add directory="/home/nik/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/../lib/gcc/aarch64-linux-gnu/8.3.0/../../../../aarch64-linux-gnu/include"/>
+					<Add directory="/home/nik/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/../aarch64-linux-gnu/libc/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm/Makefile&quot;  VERBOSE=1 my_first_project/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="System">
+				<Option output="/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm/System/libSystem.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm/System"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/c/Users/nf010/CLionProjects/my_first_project/System"/>
+					<Add directory="/home/nik/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/../lib/gcc/aarch64-linux-gnu/8.3.0/../../../../aarch64-linux-gnu/include/c++/8.3.0"/>
+					<Add directory="/home/nik/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/../lib/gcc/aarch64-linux-gnu/8.3.0/../../../../aarch64-linux-gnu/include/c++/8.3.0/aarch64-linux-gnu"/>
+					<Add directory="/home/nik/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/../lib/gcc/aarch64-linux-gnu/8.3.0/../../../../aarch64-linux-gnu/include/c++/8.3.0/backward"/>
+					<Add directory="/home/nik/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/../lib/gcc/aarch64-linux-gnu/8.3.0/include"/>
+					<Add directory="/home/nik/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/../lib/gcc/aarch64-linux-gnu/8.3.0/include-fixed"/>
+					<Add directory="/home/nik/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/../lib/gcc/aarch64-linux-gnu/8.3.0/../../../../aarch64-linux-gnu/include"/>
+					<Add directory="/home/nik/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/../aarch64-linux-gnu/libc/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm/System/Makefile&quot;  VERBOSE=1 System"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm/System/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm/System/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm/System/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="System/fast">
+				<Option output="/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm/System/libSystem.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm/System"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/c/Users/nf010/CLionProjects/my_first_project/System"/>
+					<Add directory="/home/nik/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/../lib/gcc/aarch64-linux-gnu/8.3.0/../../../../aarch64-linux-gnu/include/c++/8.3.0"/>
+					<Add directory="/home/nik/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/../lib/gcc/aarch64-linux-gnu/8.3.0/../../../../aarch64-linux-gnu/include/c++/8.3.0/aarch64-linux-gnu"/>
+					<Add directory="/home/nik/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/../lib/gcc/aarch64-linux-gnu/8.3.0/../../../../aarch64-linux-gnu/include/c++/8.3.0/backward"/>
+					<Add directory="/home/nik/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/../lib/gcc/aarch64-linux-gnu/8.3.0/include"/>
+					<Add directory="/home/nik/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/../lib/gcc/aarch64-linux-gnu/8.3.0/include-fixed"/>
+					<Add directory="/home/nik/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/../lib/gcc/aarch64-linux-gnu/8.3.0/../../../../aarch64-linux-gnu/include"/>
+					<Add directory="/home/nik/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/../aarch64-linux-gnu/libc/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm/System/Makefile&quot;  VERBOSE=1 System/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm/System/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm/System/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm/System/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Interfaces">
+				<Option output="/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm/System/Interfaces/libInterfaces.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm/System/Interfaces"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/c/Users/nf010/CLionProjects/my_first_project/System/Interfaces"/>
+					<Add directory="/home/nik/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/../lib/gcc/aarch64-linux-gnu/8.3.0/../../../../aarch64-linux-gnu/include/c++/8.3.0"/>
+					<Add directory="/home/nik/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/../lib/gcc/aarch64-linux-gnu/8.3.0/../../../../aarch64-linux-gnu/include/c++/8.3.0/aarch64-linux-gnu"/>
+					<Add directory="/home/nik/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/../lib/gcc/aarch64-linux-gnu/8.3.0/../../../../aarch64-linux-gnu/include/c++/8.3.0/backward"/>
+					<Add directory="/home/nik/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/../lib/gcc/aarch64-linux-gnu/8.3.0/include"/>
+					<Add directory="/home/nik/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/../lib/gcc/aarch64-linux-gnu/8.3.0/include-fixed"/>
+					<Add directory="/home/nik/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/../lib/gcc/aarch64-linux-gnu/8.3.0/../../../../aarch64-linux-gnu/include"/>
+					<Add directory="/home/nik/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/../aarch64-linux-gnu/libc/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm/System/Interfaces/Makefile&quot;  VERBOSE=1 Interfaces"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm/System/Interfaces/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm/System/Interfaces/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm/System/Interfaces/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Interfaces/fast">
+				<Option output="/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm/System/Interfaces/libInterfaces.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm/System/Interfaces"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/c/Users/nf010/CLionProjects/my_first_project/System/Interfaces"/>
+					<Add directory="/home/nik/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/../lib/gcc/aarch64-linux-gnu/8.3.0/../../../../aarch64-linux-gnu/include/c++/8.3.0"/>
+					<Add directory="/home/nik/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/../lib/gcc/aarch64-linux-gnu/8.3.0/../../../../aarch64-linux-gnu/include/c++/8.3.0/aarch64-linux-gnu"/>
+					<Add directory="/home/nik/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/../lib/gcc/aarch64-linux-gnu/8.3.0/../../../../aarch64-linux-gnu/include/c++/8.3.0/backward"/>
+					<Add directory="/home/nik/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/../lib/gcc/aarch64-linux-gnu/8.3.0/include"/>
+					<Add directory="/home/nik/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/../lib/gcc/aarch64-linux-gnu/8.3.0/include-fixed"/>
+					<Add directory="/home/nik/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/../lib/gcc/aarch64-linux-gnu/8.3.0/../../../../aarch64-linux-gnu/include"/>
+					<Add directory="/home/nik/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/../aarch64-linux-gnu/libc/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm/System/Interfaces/Makefile&quot;  VERBOSE=1 Interfaces/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm/System/Interfaces/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm/System/Interfaces/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/nf010/CLionProjects/my_first_project/cmake-build-release-wsl-arm/System/Interfaces/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/c/Users/nf010/CLionProjects/my_first_project/PPS_from_fpga/Include/receiver.h">
+			<Option target="my_first_project"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/nf010/CLionProjects/my_first_project/PPS_from_fpga/Source/receiver.cpp">
+			<Option target="my_first_project"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/nf010/CLionProjects/my_first_project/System/AtomicDeque.h">
+			<Option target="System"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/nf010/CLionProjects/my_first_project/System/Devices/Adis16445/Adis16445.cpp">
+			<Option target="System"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/nf010/CLionProjects/my_first_project/System/Devices/Adis16445/Adis16445.h">
+			<Option target="System"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/nf010/CLionProjects/my_first_project/System/Devices/Lmx2572/Lmx2572.cpp">
+			<Option target="System"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/nf010/CLionProjects/my_first_project/System/Devices/Lmx2572/Lmx2572.h">
+			<Option target="System"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/nf010/CLionProjects/my_first_project/System/Dma.cpp">
+			<Option target="System"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/nf010/CLionProjects/my_first_project/System/Dma.h">
+			<Option target="System"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/nf010/CLionProjects/my_first_project/System/Interfaces/AxiLiteInterface.cpp">
+			<Option target="Interfaces"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/nf010/CLionProjects/my_first_project/System/Interfaces/AxiLiteInterface.h">
+			<Option target="Interfaces"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/nf010/CLionProjects/my_first_project/System/Interfaces/CanSocket.cpp">
+			<Option target="Interfaces"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/nf010/CLionProjects/my_first_project/System/Interfaces/CanSocket.h">
+			<Option target="Interfaces"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/nf010/CLionProjects/my_first_project/System/Interfaces/Connection.cpp">
+			<Option target="Interfaces"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/nf010/CLionProjects/my_first_project/System/Interfaces/Connection.h">
+			<Option target="Interfaces"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/nf010/CLionProjects/my_first_project/System/Interfaces/Gpio.cpp">
+			<Option target="Interfaces"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/nf010/CLionProjects/my_first_project/System/Interfaces/Gpio.h">
+			<Option target="Interfaces"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/nf010/CLionProjects/my_first_project/System/Interfaces/Jesd204b.cpp">
+			<Option target="Interfaces"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/nf010/CLionProjects/my_first_project/System/Interfaces/Jesd204b.h">
+			<Option target="Interfaces"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/nf010/CLionProjects/my_first_project/System/Interfaces/Spi.cpp">
+			<Option target="Interfaces"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/nf010/CLionProjects/my_first_project/System/Interfaces/Spi.h">
+			<Option target="Interfaces"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/nf010/CLionProjects/my_first_project/System/Interfaces/Tcp.cpp">
+			<Option target="Interfaces"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/nf010/CLionProjects/my_first_project/System/Interfaces/Tcp.h">
+			<Option target="Interfaces"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/nf010/CLionProjects/my_first_project/System/Interfaces/TcpStc.cpp">
+			<Option target="Interfaces"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/nf010/CLionProjects/my_first_project/System/Interfaces/TcpStc.h">
+			<Option target="Interfaces"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/nf010/CLionProjects/my_first_project/System/Interfaces/Uart.cpp">
+			<Option target="Interfaces"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/nf010/CLionProjects/my_first_project/System/Interfaces/Uart.h">
+			<Option target="Interfaces"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/nf010/CLionProjects/my_first_project/System/Interfaces/Udp.cpp">
+			<Option target="Interfaces"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/nf010/CLionProjects/my_first_project/System/Interfaces/Udp.h">
+			<Option target="Interfaces"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/nf010/CLionProjects/my_first_project/System/Interfaces/UdpStc.cpp">
+			<Option target="Interfaces"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/nf010/CLionProjects/my_first_project/System/Interfaces/UdpStc.h">
+			<Option target="Interfaces"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/nf010/CLionProjects/my_first_project/System/Logger.h">
+			<Option target="System"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/nf010/CLionProjects/my_first_project/System/Semaphore.h">
+			<Option target="System"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/nf010/CLionProjects/my_first_project/System/StcPacket.cpp">
+			<Option target="System"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/nf010/CLionProjects/my_first_project/System/StcPacket.h">
+			<Option target="System"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/nf010/CLionProjects/my_first_project/System/dma-proxy.h">
+			<Option target="System"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/nf010/CLionProjects/my_first_project/main.cpp">
+			<Option target="my_first_project"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/nf010/CLionProjects/my_first_project/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/nf010/CLionProjects/my_first_project/System/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\System\"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/nf010/CLionProjects/my_first_project/System/Interfaces/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\System\Interfaces\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

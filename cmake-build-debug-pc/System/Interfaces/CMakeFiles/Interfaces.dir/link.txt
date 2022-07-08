@@ -1,0 +1,2 @@
+/usr/bin/ar qc libInterfaces.a  CMakeFiles/Interfaces.dir/UdpStc.cpp.o CMakeFiles/Interfaces.dir/Jesd204b.cpp.o CMakeFiles/Interfaces.dir/Gpio.cpp.o CMakeFiles/Interfaces.dir/Spi.cpp.o CMakeFiles/Interfaces.dir/CanSocket.cpp.o CMakeFiles/Interfaces.dir/AxiLiteInterface.cpp.o CMakeFiles/Interfaces.dir/Uart.cpp.o CMakeFiles/Interfaces.dir/TcpStc.cpp.o CMakeFiles/Interfaces.dir/Connection.cpp.o CMakeFiles/Interfaces.dir/Udp.cpp.o CMakeFiles/Interfaces.dir/Tcp.cpp.o
+/usr/bin/ranlib libInterfaces.a

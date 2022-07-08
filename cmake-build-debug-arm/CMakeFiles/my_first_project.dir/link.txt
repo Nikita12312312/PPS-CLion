@@ -1,0 +1,1 @@
+/home/nik/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/aarch64-linux-gnu-g++   -fpermissive -DGNSS_SIM -g -g -Wall -Wno-strict-aliasing   CMakeFiles/my_first_project.dir/main.cpp.o CMakeFiles/my_first_project.dir/PPS_from_fpga/Source/receiver.cpp.o  -o my_first_project  System/libSystem.a System/Interfaces/libInterfaces.a -static-libgcc -static-libstdc++ 
